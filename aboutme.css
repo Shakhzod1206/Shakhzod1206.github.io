@@ -29,6 +29,10 @@ body
 	color: red;
 }
 
+.red:hover
+{
+	text-decoration: none;
+}
 .headcolors
 {
 	color:rgb(70, 163, 255);
