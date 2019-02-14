@@ -37,3 +37,9 @@ body
 {
 	color:rgb(70, 163, 255);
 }
+
+.size
+{
+	width:80px;
+	border: 1px;
+}
